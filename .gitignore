@@ -1,0 +1,8 @@
+# Safety guard: paid products and documents never go in this public repo
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.zip
+*.epub
