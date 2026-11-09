@@ -1,0 +1,79 @@
+{
+ "date": "2026-11-15",
+ "carousel": {
+  "slug": "post-a-a-week-in-practice",
+  "kicker": "A WEEK IN PRACTICE",
+  "slides": [
+   {
+    "title": "What a broken-night week can look like",
+    "body": "Same check every morning. Different answers."
+   },
+   {
+    "title": "Woke at 3, back asleep fast",
+    "body": "Planned strength session. Felt OK. Did it, with one fewer set.",
+    "kicker": "MON"
+   },
+   {
+    "title": "Awake 3–4:30am",
+    "body": "Low energy. Chose a 15-minute walk. Stop cue: when it stops feeling easy.",
+    "kicker": "TUE"
+   },
+   {
+    "title": "Two wake-ups",
+    "body": "Heavy fatigue. Chose deliberate rest. Closed the decision.",
+    "kicker": "WED"
+   },
+   {
+    "title": "Better night",
+    "body": "Planned session fit. Did it as written.",
+    "kicker": "THU"
+   },
+   {
+    "title": "Different days, one process",
+    "body": "The Morning Capacity Check, a decision card and a 7-day sheet.\n\nLink in bio.",
+    "kicker": "THE GUIDE"
+   }
+  ]
+ },
+ "story": {
+  "slug": "this-weeks-pattern",
+  "kicker": "SUNDAY CHECK-IN",
+  "title": "Different nights. Same simple check.",
+  "body": "What did your week of movement look like?"
+ },
+ "reel": {
+  "slug": "reel-a-repeat-the-check",
+  "frames": [
+   {
+    "kicker": "CONSISTENCY",
+    "title": "Isn't doing the same workout every day.",
+    "body": ""
+   },
+   {
+    "kicker": "IN PERIMENOPAUSE",
+    "title": "Your nights aren't the same every day.",
+    "body": ""
+   },
+   {
+    "kicker": "SO",
+    "title": "Repeat the check, not the workout.",
+    "body": ""
+   },
+   {
+    "kicker": "EVERY MORNING",
+    "title": "Record. Check. Choose.",
+    "body": ""
+   },
+   {
+    "kicker": "THAT'S CONSISTENCY",
+    "title": "A process you can keep.",
+    "body": ""
+   },
+   {
+    "kicker": "THE MORNING CAPACITY CHECK",
+    "title": "Guide + printable decision card",
+    "body": "Link in bio"
+   }
+  ]
+ }
+}
