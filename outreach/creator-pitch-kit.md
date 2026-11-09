@@ -8,7 +8,7 @@ Product: **"Perimenopausal Women Keeping Moving Without Forcing Workouts"** (Who
 - Price: [PRICE] one-time · Checkout: [PUBLIC WHOP LINK]
 - Split: 50/50 of net revenue after Whop fees, paid automatically to the creator's Whop balance on each sale through her own link
 
-Sender: nfinitydigitalbusiness@gmail.com (email) · @periandcalm (Instagram DM)
+Sender: nfinitydigitalbusiness@gmail.com (email, sent via Gmail in Chrome on the Mac: https://mail.google.com/mail/u/2/ — confirm the tab title shows this address before sending) · @periandcalm (Instagram DM)
 
 ---
 
