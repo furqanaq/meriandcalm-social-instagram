@@ -5,7 +5,7 @@ Product: **"Perimenopausal Women Keeping Moving Without Forcing Workouts"** (Who
 - Morning Capacity Check: a 3-question check after a broken night, then pick one of three outcomes: modified plan, gentle movement or deliberate rest
 - Printable Morning Capacity Check Decision Card (with a filled example)
 - Seven-Day Broken Night Practice Sheet + weekly review
-- Price: [PRICE] one-time · Checkout: [PUBLIC WHOP LINK]
+- Price: $65 one-time · Checkout: https://whop.com/periandcalm/products/perimenopausal-women-keeping-moving-without-forcing-workouts/ (each partner gets her own affiliate link to this page)
 - Split: 50/50 of net revenue after Whop fees, paid automatically to the creator's Whop balance on each sale through her own link
 
 Sender: nfinitydigitalbusiness@gmail.com (email, sent via Gmail in Chrome on the Mac: https://mail.google.com/mail/u/2/ — confirm the tab title shows this address before sending) · @periandcalm (Instagram DM)
@@ -29,7 +29,7 @@ Sender: nfinitydigitalbusiness@gmail.com (email, sent via Gmail in Chrome on the
 > I'd love to offer it to your audience as a partner:
 > - We handle the product, checkout, delivery and customer support.
 > - You share it however feels natural (a reel, stories, link in bio).
-> - Every sale through your link splits 50/50, paid automatically to your Whop account the moment it happens. The guide is [PRICE], so you earn about [HALF OF NET] per sale.
+> - Every sale through your link splits 50/50, paid automatically to your Whop account the moment it happens. The guide is $65, so you earn about $30 per sale (half of what is left after Whop fees).
 > - No upfront cost, no exclusivity, and you can stop anytime.
 >
 > Can I send you a free copy so you can see whether it fits your audience?
