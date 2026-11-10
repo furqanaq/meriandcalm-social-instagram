@@ -1,4 +1,22 @@
-# Peri & Calm creator partnership pitch kit (DRAFT, awaiting Furqan's approval)
+# Peri & Calm creator partnership pitch kit
+
+> **CURRENT TEMPLATE (Furqan, 10 Nov 2026). It replaces the older pitch wording further down.**
+>
+> Rules: open with a remark on HER post that relates to the product (broken nights, 3am wake-ups, tiredness, training or moving in perimenopause). State the exact 50/50 split. Say it's a no-brainer with no risk. Mention the 14 free posts with a posting schedule.
+>
+> **DM / email body**
+> Hi [First name]! [One specific, true remark on her recent post about sleep / broken nights / moving or training in perimenopause.]
+> That's exactly the moment our guide is for: *Perimenopausal Women Keeping Moving Without Forcing Workouts*, a 3-question morning check after a broken night to choose a modified session, gentle movement or planned rest.
+> I'd love to offer you a true 50/50 partnership: every $65 sale through your link is split equally, $32.50 to you and $32.50 to us (Whop's small processing fee comes off the total first), paid to you automatically on every sale.
+> It's a no-brainer with zero risk for you: no cost, no exclusivity, and we handle the product, checkout, delivery and support. You also get 14 ready-made posts with a posting schedule to share with your audience.
+> Can I send you a free copy to look at? 🤍 Furqan, Peri & Calm
+>
+> **Email subject:** 50/50 partnership: $32.50 to you on every sale, zero risk
+>
+> **Follow-up (day 3, once):** Hi [First name], just floating this up. To recap: 50/50 on every $65 sale ($32.50 each), no cost or risk to you, plus 14 ready-made posts with a schedule. Happy to send the free copy first. If it's not a fit, no worries at all 🤍 Furqan
+>
+> **Before anyone says yes:** the 14-post partner pack (captions, images, posting schedule) must exist. See "Partner pack" below.
+
 
 Product: **"Perimenopausal Women Keeping Moving Without Forcing Workouts"** (Whop store: "Feel Restored Through Gentle Movement After Night Waking")
 - eBook, about 5,000 words, 7 short chapters
@@ -62,3 +80,6 @@ Sender: nfinitydigitalbusiness@gmail.com (email, sent via Gmail in Chrome on the
 - Up to 15–20 new DMs a day from @periandcalm; up to 10 pitch emails a day.
 - No health or cure claims. Wording to use: "a practical way to decide," "gentle movement".
 - Log every action in the creator shortlist: status, date contacted, reply.
+
+## Partner pack (promised in every pitch)
+14 ready-made posts for the creator's own account, neutral branding (no @periandcalm watermark), each with a caption that includes her affiliate link and #ad, plus a 14-day posting schedule (for example, 1 post a day for 2 weeks, mixing carousels, reels and stories). Status: to be built.
