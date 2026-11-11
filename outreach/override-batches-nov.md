@@ -12,7 +12,7 @@ Log every send in outreach-log.csv. Skip anyone who turns out AI-generated, male
 Excluded from the 61 screened: sportt_tamara (non-English), reinventwithmartita + janemhdg (messaged ~5 weeks ago),
 kristinavirro + birgittatherapy (therapists, off-topic), sarahvadeboncoeur + olavidahealth (clinicians), brendatrains,
 paulamovesforlife, rested.with.susan (inactive), gabsbrownwellbeing (divorce coach), its_nicolewagner (makeup educator),
-caseyberos (keynote speaker), alex.abrandt (not verified as a woman creator), beabetter26 (blood-sugar product account).
+caseyberos (keynote speaker), alex.abrandt (not verified as a woman creator), beabetter26 (blood-sugar product account), after_the_barre (sells her own online class platform).
 
 ## Batch A (12 Nov)
 back_to_beki, my_life_in_lipstick, itscrystalactually, christy.melgoza, shedoesmenopause, lesliewensmann,
@@ -26,4 +26,4 @@ norawildelife, toscareno, jasmine_blake0401, laureennnn_d, michmickstyle, miajon
 ## Batch C (14 Nov)
 beth.levis, alka.genxnz, its.melissssssa, jillbrownfitness, simplyamywellness, revivehealthandperformance,
 suzanny_, margsonthedaily, nataliesmallfounder, healthyornotcoaching, mandyventrice, kate.dornan,
-miriamvera.wellness, lifewithblondie__, my40s_unfiltered, after_the_barre
+miriamvera.wellness, lifewithblondie__, my40s_unfiltered
