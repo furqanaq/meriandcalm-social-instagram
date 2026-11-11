@@ -6,3 +6,5 @@
 *.xls
 *.zip
 *.epub
+__pycache__/
+*.pyc
