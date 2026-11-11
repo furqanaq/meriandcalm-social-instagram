@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-17",
+ "reel": {
+  "slug": "reel-a-school-run-morning",
+  "frames": [
+   {"kicker": "SCHOOL RUN MORNING", "title": "Awake since 4. Out the door at 8.", "body": ""},
+   {"kicker": "THE PLAN SAID", "title": "45 minutes before drop-off.", "body": ""},
+   {"kicker": "TODAY CAN SUPPORT", "title": "Not that. But not nothing.", "body": ""},
+   {"kicker": "TRY", "title": "Walk home the long way.", "body": ""},
+   {"kicker": "STOP CUE", "title": "When it stops feeling easy.", "body": ""},
+   {"kicker": "DONE", "title": "A small start counts.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-are-you-skipping-again",
+  "kicker": "WHEN SOMEONE ASKS",
+  "slides": [
+   {"title": "\"Are you skipping again?\"", "body": "What to say when a partner or friend asks."},
+   {"kicker": "FIRST", "title": "It isn't skipping", "body": "Skipping is avoiding a decision. You made one."},
+   {"kicker": "SAY THE CHOICE", "title": "\"I'm taking a planned rest day.\"", "body": "Short. Calm. No apology needed."},
+   {"kicker": "OR THE SMALLER VERSION", "title": "\"I'm doing a 15-minute walk instead.\"", "body": "A modified plan is still a plan."},
+   {"kicker": "IF THEY PUSH", "title": "\"I checked what today can support.\"", "body": "You don't owe a longer defence."},
+   {"kicker": "WHY IT HELPS", "title": "Said out loud, it stays closed", "body": "No reopening it at lunch. No double session tomorrow."},
+   {"kicker": "THE GUIDE", "title": "Decide it, then say it", "body": "The Morning Capacity Check and a printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "no-explanation-needed",
+  "kicker": "TODAY",
+  "title": "Planned rest doesn't need a defence.",
+  "body": "Who asks you about your workouts?"
+ }
+}

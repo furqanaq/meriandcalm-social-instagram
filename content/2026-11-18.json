@@ -1,0 +1,33 @@
+{
+ "date": "2026-11-18",
+ "reel": {
+  "slug": "reel-a-travel-day",
+  "frames": [
+   {"kicker": "TRAVEL DAY", "title": "Early flight. Short night.", "body": ""},
+   {"kicker": "THE PLAN SAID", "title": "Intervals in the hotel gym.", "body": ""},
+   {"kicker": "TODAY CAN SUPPORT", "title": "A walk to the gate.", "body": ""},
+   {"kicker": "STILL COUNTS", "title": "Movement you chose on purpose.", "body": ""},
+   {"kicker": "NEW PLACE", "title": "Same three questions.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-fill-it-in-the-night-before",
+  "kicker": "THE NIGHT BEFORE",
+  "slides": [
+   {"title": "Fill in half the card the night before", "body": "So the morning is a tick, not a debate."},
+   {"kicker": "LINE 1", "title": "Tomorrow's plan", "body": "Write the session as planned. \"Strength, 40 minutes.\""},
+   {"kicker": "LINE 2", "title": "The smaller version", "body": "\"Two sets, 20 minutes.\""},
+   {"kicker": "LINE 3", "title": "The gentle option", "body": "\"Easy walk, 15 minutes.\""},
+   {"kicker": "LINE 4", "title": "Your stop cue", "body": "\"I'll stop if it stops feeling comfortable.\""},
+   {"kicker": "IN THE MORNING", "title": "Record, check, tick one", "body": "Rest is on the list too. It doesn't need writing in advance."},
+   {"kicker": "THE GUIDE", "title": "The card is printable", "body": "It comes with the guide and a 7-day practice sheet.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "planned-rest-feels-different",
+  "kicker": "NOTICE THIS",
+  "title": "Planned rest feels different from skipped rest.",
+  "body": "Which did you have more of this week?"
+ }
+}
