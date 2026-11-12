@@ -1,0 +1,33 @@
+{
+ "date": "2026-11-19",
+ "reel": {
+  "slug": "reel-a-early-meeting-morning",
+  "frames": [
+   {"kicker": "EARLY MEETING", "title": "7:30 call. Awake since 3.", "body": ""},
+   {"kicker": "THE PLAN SAID", "title": "A run before work.", "body": ""},
+   {"kicker": "ASK FIRST", "title": "How much usable energy is here?", "body": ""},
+   {"kicker": "TODAY'S CHOICE", "title": "Ten minutes of stretching after the call.", "body": ""},
+   {"kicker": "THAT COUNTS", "title": "A small start is a finished decision.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-what-gentle-can-look-like",
+  "kicker": "GENTLE MOVEMENT",
+  "slides": [
+   {"title": "What gentle movement can look like", "body": "It is a real option, not a consolation prize."},
+   {"kicker": "OPTION", "title": "A slow walk outside", "body": "Fifteen minutes. No pace to hit."},
+   {"kicker": "OPTION", "title": "Mobility on the floor", "body": "Hips, back, shoulders. Move as far as feels easy."},
+   {"kicker": "OPTION", "title": "Easy cycling", "body": "Low resistance. Chat pace."},
+   {"kicker": "OPTION", "title": "A few calm stretches", "body": "Between meetings counts too."},
+   {"kicker": "THE RULE", "title": "Pick a stop cue first", "body": "Stop when it stops feeling OK. That is the plan working."},
+   {"kicker": "THE GUIDE", "title": "Gentle is one of three choices", "body": "The guide shows how to pick on the morning after a broken night.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "gentle-is-a-real-option",
+  "kicker": "TODAY",
+  "title": "Gentle movement is a real choice, not a fallback.",
+  "body": "What does gentle look like for you today?"
+ }
+}
