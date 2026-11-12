@@ -14,16 +14,19 @@ kristinavirro + birgittatherapy (therapists, off-topic), sarahvadeboncoeur + ola
 paulamovesforlife, rested.with.susan (inactive), gabsbrownwellbeing (divorce coach), its_nicolewagner (makeup educator),
 caseyberos (keynote speaker), alex.abrandt (not verified as a woman creator), beabetter26 (blood-sugar product account), after_the_barre (sells her own online class platform).
 
-## Batch A (12 Nov)
-back_to_beki, my_life_in_lipstick, itscrystalactually, christy.melgoza, shedoesmenopause, lesliewensmann,
-allyatkinshealth, deb_attracts, maggie.ellison.newstart, mymidlife_kariannewright, joan.stafford.moves,
-tarynperry, yogaformenopause, _growithrow, see.beth.run
+## Batch A (12 Nov) - DONE ~06:20-06:47 UTC, 15 contacted
+Sent (DM + preview): back_to_beki*, my_life_in_lipstick*, itscrystalactually*, shedoesmenopause, lesliewensmann, allyatkinshealth,
+mymidlife_kariannewright, yogaformenopause, _growithrow, see.beth.run, antheahatzi*, vanessa.wideski, sixty_strong, becomingwithfaye
+(* = email sent too). tarynperry: DM blocked (she doesn't accept message requests).
+Skipped: christy.melgoza (existing thread from earlier campaign), deb_attracts / maggie.ellison.newstart / joan.stafford.moves (AI-generated),
+claire_chronicles (page unavailable). If the 12 Nov 11:17 UTC reminder fires, Batch A is already done: do nothing.
 
-## Batch B (13 Nov)
-antheahatzi, vanessa.wideski, claire_chronicles, sixty_strong, becomingwithfaye, its.simplysilvia, tammiperong,
-norawildelife, toscareno, jasmine_blake0401, laureennnn_d, michmickstyle, miajoneswellness, ingrid_.weber, 1lisafrye
+Already pitched by an earlier session on 11 Nov, so removed from B/C: its.simplysilvia, tammiperong, 1lisafrye, its.melissssssa.
+Always check the chat pop-up for an earlier thread before typing, and the bio for an "AI-generated profile" label.
 
-## Batch C (14 Nov)
-beth.levis, alka.genxnz, its.melissssssa, jillbrownfitness, simplyamywellness, revivehealthandperformance,
-suzanny_, margsonthedaily, nataliesmallfounder, healthyornotcoaching, mandyventrice, kate.dornan,
-miriamvera.wellness, lifewithblondie__, my40s_unfiltered
+## Batch B (13 Nov) - 15
+norawildelife, toscareno, jasmine_blake0401, laureennnn_d, michmickstyle, miajoneswellness, ingrid_.weber,
+beth.levis, alka.genxnz, jillbrownfitness, simplyamywellness, revivehealthandperformance, suzanny_, margsonthedaily, nataliesmallfounder
+
+## Batch C (14 Nov) - 6 left
+healthyornotcoaching, mandyventrice, kate.dornan, miriamvera.wellness, lifewithblondie__, my40s_unfiltered
