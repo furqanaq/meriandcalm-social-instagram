@@ -1,0 +1,32 @@
+{
+ "date": "2026-11-20",
+ "reel": {
+  "slug": "reel-a-second-broken-night",
+  "frames": [
+   {"kicker": "NIGHT TWO", "title": "Second broken night in a row.", "body": ""},
+   {"kicker": "THE THOUGHT", "title": "I rested yesterday. I have to train today.", "body": ""},
+   {"kicker": "NOT QUITE", "title": "Yesterday's choice doesn't set today's.", "body": ""},
+   {"kicker": "ASK AGAIN", "title": "Does the planned session still fit this morning?", "body": ""},
+   {"kicker": "THEN CHOOSE", "title": "Modified, gentle or rest. Fresh each day.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-consistency-myths",
+  "kicker": "CONSISTENCY",
+  "slides": [
+   {"title": "Three myths about staying consistent", "body": "Especially in weeks of broken nights."},
+   {"kicker": "MYTH 1", "title": "Consistent means the same workout daily", "body": "Consistent can mean the same check daily. The workout can change."},
+   {"kicker": "MYTH 2", "title": "A missed session breaks the streak", "body": "A planned rest day is part of the plan, not a gap in it."},
+   {"kicker": "MYTH 3", "title": "Short sessions don't add up", "body": "Ten easy minutes is still movement you chose and finished."},
+   {"kicker": "TRY THIS", "title": "Track decisions, not sessions", "body": "Did you check in and choose? Then you were consistent today."},
+   {"kicker": "THE GUIDE", "title": "A steadier kind of consistency", "body": "The guide and 7-day sheet help you practise it.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "consistent-check",
+  "kicker": "TODAY",
+  "title": "Consistency can be the check, not the workout.",
+  "body": "What would consistent look like for you this week?"
+ }
+}
