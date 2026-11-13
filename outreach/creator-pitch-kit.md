@@ -1,6 +1,29 @@
 # Peri & Calm creator partnership pitch kit
 
-> **CURRENT TEMPLATE (Furqan, 10 Nov 2026). It replaces the older pitch wording further down.**
+> **CURRENT TEMPLATE (Furqan, 13 Nov 2026). It replaces every older pitch wording below, including the 10 Nov template.**
+>
+> Offer, in Furqan's words: true 50/50, so **$32.50 of every $65 sale** goes to the creator, paid automatically through Whop via her own link (set her up as a 50% Whop affiliate; never quote "about $30" again).
+> On top of the digital product, Furqan gives her **Instagram posts as promotional material, made to match her existing content, entirely FREE**.
+> The aim is to help her make as much money as possible, because Furqan only makes money when she does. Make it a no-brainer: no cost, no risk, no exclusivity, no work on the product, free copy first.
+> Write in first person ("I"), sign "Furqan, Peri & Calm". DM under 900 characters, one paragraph. Open with ONE specific, true detail from her recent content, linked to the morning after a broken night. No health claims, no invented facts.
+>
+> **DM / email body**
+> Hi [First name], [one specific, true detail from her recent post]. That's exactly the moment my guide is for: a 3-question Morning Capacity Check after a broken night that points to a modified session, gentle movement or deliberate rest.
+> I'd love you as a 50/50 partner: every $65 sale through your link pays you $32.50, automatically through Whop.
+> On top of the guide, I'll create Instagram posts for you, free, designed to match your existing content, so sharing it takes you minutes.
+> I handle the product, checkout, delivery and support. No cost, no risk, no exclusivity. I only earn when you earn, so my whole aim is to help you make as much as possible.
+> Can I send you a free copy first? 🤍 Furqan, Peri & Calm
+>
+> **Email subject:** 50/50 partnership: $32.50 to you on every sale + free posts made for your page
+>
+> **Day-3 follow-up (once):** Hi [First name], just floating this up. Quick recap: $32.50 to you on every $65 sale, plus free Instagram posts made to match your content, so there's nothing for you to create. No cost, no risk, no exclusivity. Happy to send the free copy first. If it's not a fit, no worries at all 🤍 Furqan, Peri & Calm
+>
+> **On yes:** thank her; Furqan sends the free copy and her personal partner link (50% Whop affiliate) today; ask for her Whop username or email; then Furqan makes her matching posts.
+
+---
+
+> (Superseded) 10 Nov template follows.
+> **OLD TEMPLATE (10 Nov 2026), superseded on 13 Nov.**
 >
 > Rules: open with a remark on HER post that relates to the product (broken nights, 3am wake-ups, tiredness, training or moving in perimenopause). State the exact 50/50 split. Say it's a no-brainer with no risk. Mention the 14 free posts with a posting schedule.
 >
