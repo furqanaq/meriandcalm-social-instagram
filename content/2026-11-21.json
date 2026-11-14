@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-21",
+ "reel": {
+  "slug": "reel-a-saturday-class-with-a-friend",
+  "frames": [
+   {"kicker": "SATURDAY", "title": "Class booked with a friend. Awake since 2.", "body": ""},
+   {"kicker": "OPTION ONE", "title": "Go, and match her pace all hour.", "body": ""},
+   {"kicker": "OPTION TWO", "title": "Cancel by text and feel bad all day.", "body": ""},
+   {"kicker": "OR", "title": "Go, and take the easier version of each move.", "body": ""},
+   {"kicker": "OR", "title": "Skip class. Meet her for a walk after.", "body": ""},
+   {"kicker": "EITHER WAY", "title": "Decide before you text her.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-four-mornings",
+  "kicker": "TWO SEPARATE DIALS",
+  "slides": [
+   {"title": "Four kinds of tired morning", "body": "Fatigue and willingness to move are two dials, not one."},
+   {"kicker": "MORNING 1", "title": "Tired, but keen to move", "body": "Next question: how much usable energy is really here?"},
+   {"kicker": "MORNING 2", "title": "Tired, and not keen", "body": "Next question: does gentle movement feel OK, or is rest the plan?"},
+   {"kicker": "MORNING 3", "title": "Not that tired, but not keen", "body": "Next question: does the planned session still fit, or a smaller one?"},
+   {"kicker": "MORNING 4", "title": "Rested and ready", "body": "Still worth one quick check. Then set your stop cue."},
+   {"kicker": "WHY IT HELPS", "title": "Mixed dials, clearer choice", "body": "Noting them separately stops one feeling deciding for you."},
+   {"kicker": "THE GUIDE", "title": "The full check, step by step", "body": "Plus a printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "weekends-need-the-check",
+  "kicker": "SATURDAY",
+  "title": "Weekends need the check too.",
+  "body": "What do you usually force on a Saturday?"
+ }
+}
