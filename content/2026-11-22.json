@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-22",
+ "reel": {
+  "slug": "reel-a-sunday-three-versions",
+  "frames": [
+   {"kicker": "SUNDAY EVENING", "title": "Planning the week ahead?", "body": ""},
+   {"kicker": "THE USUAL WAY", "title": "One version of each session.", "body": ""},
+   {"kicker": "THE PROBLEM", "title": "Broken nights don't check your diary.", "body": ""},
+   {"kicker": "TRY THIS", "title": "Write each session three ways.", "body": "As planned. Smaller. Gentle."},
+   {"kicker": "AND", "title": "Leave room for rest on purpose.", "body": ""},
+   {"kicker": "MONDAY MORNING", "title": "You choose. You don't rewrite.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + 7-day practice sheet", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-when-you-reach-the-stop-cue",
+  "kicker": "MID-SESSION",
+  "slides": [
+   {"title": "When you reach your stop cue", "body": "What to do in the moment it arrives."},
+   {"kicker": "STEP 1", "title": "Notice it, plainly", "body": "\"That's my cue.\" No argument, no extra set to prove a point."},
+   {"kicker": "STEP 2", "title": "Stop, or step down", "body": "Finish here, or switch to the gentle version for a few minutes."},
+   {"kicker": "STEP 3", "title": "Call it complete", "body": "You set the boundary earlier. Keeping it is the win."},
+   {"kicker": "STEP 4", "title": "Note it neutrally", "body": "\"Stopped at 12 minutes.\" A fact, not a verdict."},
+   {"kicker": "WHAT NOT TO DO", "title": "Don't bank the rest for tomorrow", "body": "No doubling up. Tomorrow gets its own check."},
+   {"kicker": "THE GUIDE", "title": "Stop cues, step by step", "body": "Plus a printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "stopping-at-your-cue",
+  "kicker": "SUNDAY",
+  "title": "Stopping at your cue is finishing.",
+  "body": "When did you last stop on purpose?"
+ }
+}

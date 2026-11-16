@@ -1,0 +1,16 @@
+{
+ "date": "2026-11-22",
+ "carousel": {
+  "slug": "post-b-your-app-says-42",
+  "kicker": "SCORES AND STREAKS",
+  "slides": [
+   {"title": "Your app says \"readiness 42\". Now what?", "body": "A number is one input. It isn't the decision."},
+   {"kicker": "THE TRAP", "title": "Letting a score decide for you", "body": "Low score, cancel everything. High score, force it."},
+   {"kicker": "THE STREAK", "title": "Streaks reward sameness", "body": "A broken streak can feel like failure. It isn't."},
+   {"kicker": "INSTEAD", "title": "Ask your own three questions", "body": "Usable energy? Gentle feels OK? Does the plan still fit?"},
+   {"kicker": "THEN", "title": "Pick one of three", "body": "Modified plan, gentle movement or deliberate rest."},
+   {"kicker": "KEEP THE APP", "title": "Just move it down the list", "body": "Read the number. Then check in with yourself."},
+   {"kicker": "THE GUIDE", "title": "A check you can run without a screen", "body": "Printable decision card included.\n\nLink in bio."}
+  ]
+ }
+}

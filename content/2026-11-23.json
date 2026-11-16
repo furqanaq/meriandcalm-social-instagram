@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-23",
+ "reel": {
+  "slug": "reel-a-monday-after-a-rough-weekend",
+  "frames": [
+   {"kicker": "MONDAY", "title": "Two rough nights. Gym planned for 7.", "body": ""},
+   {"kicker": "THE THOUGHT", "title": "\"New week. No excuses.\"", "body": ""},
+   {"kicker": "THE OTHER THOUGHT", "title": "\"Write the week off.\"", "body": ""},
+   {"kicker": "NEITHER", "title": "Monday is just another morning.", "body": ""},
+   {"kicker": "SO", "title": "Run the check. Pick one of three.", "body": "Modified. Gentle. Rest."},
+   {"kicker": "AND", "title": "The week isn't decided today.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-telling-your-trainer",
+  "kicker": "CLASSES AND TRAINERS",
+  "slides": [
+   {"title": "What to tell your trainer after a broken night", "body": "Short scripts for the start of a session."},
+   {"kicker": "SAY IT EARLY", "title": "Before the warm-up, not halfway in", "body": "It's easier to adjust a plan than to stop one."},
+   {"kicker": "SCRIPT 1", "title": "\"Rough night. Lighter today, please.\"", "body": "A modified plan is still the plan."},
+   {"kicker": "SCRIPT 2", "title": "\"I'll take the easier option on each move.\"", "body": "Useful in a class you don't want to miss."},
+   {"kicker": "SCRIPT 3", "title": "\"I'll stop at 30 minutes today.\"", "body": "Say your stop cue out loud. It's easier to keep."},
+   {"kicker": "NO DEFENCE NEEDED", "title": "You don't owe the full story", "body": "\"Short night\" is enough."},
+   {"kicker": "THE GUIDE", "title": "Decide before you walk in", "body": "The Morning Capacity Check, with a printable card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "mondays-dont-make-up",
+  "kicker": "MONDAY",
+  "title": "Mondays don't have to make up for weekends.",
+  "body": "What will today actually support?"
+ }
+}
