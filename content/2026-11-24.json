@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-24",
+ "reel": {
+  "slug": "reel-a-lunchtime-swim",
+  "frames": [
+   {"kicker": "TUESDAY", "title": "Lunchtime swim booked. Up since 3.", "body": ""},
+   {"kicker": "11:45", "title": "Bag packed. Energy isn't.", "body": ""},
+   {"kicker": "ASK", "title": "Does the planned session still fit?", "body": ""},
+   {"kicker": "OPTION", "title": "Ten easy lengths. Then out.", "body": ""},
+   {"kicker": "OPTION", "title": "A walk to the pool and back.", "body": ""},
+   {"kicker": "OPTION", "title": "Rest at your desk. Chosen, not skipped.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-reading-usable-energy",
+  "kicker": "USABLE ENERGY",
+  "slides": [
+   {"title": "How do you know how much energy you've got?", "body": "Simple signs to notice before you move."},
+   {"kicker": "NOT HOW MUCH YOU SLEPT", "title": "Hours are only part of it", "body": "Two short nights can feel very different."},
+   {"kicker": "SIGN 1", "title": "Getting dressed felt easy or heavy", "body": "Small tasks are a useful first read."},
+   {"kicker": "SIGN 2", "title": "Your focus on the first task", "body": "Foggy? Note it, without judging it."},
+   {"kicker": "SIGN 3", "title": "Your body on the stairs", "body": "Light, normal or slow. Just notice."},
+   {"kicker": "THEN DECIDE", "title": "Match the plan to what's here", "body": "Modified plan, gentle movement or deliberate rest."},
+   {"kicker": "THE GUIDE", "title": "The full check, step by step", "body": "With a printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "night-is-information",
+  "kicker": "THIS MORNING",
+  "title": "Last night is information, not a verdict.",
+  "body": "What is it telling you today?"
+ }
+}

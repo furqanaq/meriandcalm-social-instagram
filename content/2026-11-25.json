@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-25",
+ "reel": {
+  "slug": "reel-a-friend-texts-walk",
+  "frames": [
+   {"kicker": "7:40AM", "title": "\"Walk at 8?\" Awake since 4.", "body": ""},
+   {"kicker": "OLD REFLEX", "title": "\"Can't. Too tired.\"", "body": ""},
+   {"kicker": "PAUSE", "title": "Does gentle movement feel OK?", "body": ""},
+   {"kicker": "IF YES", "title": "\"Yes, but a short one.\"", "body": ""},
+   {"kicker": "IF NO", "title": "\"Not today. Friday?\"", "body": ""},
+   {"kicker": "EITHER WAY", "title": "You decided. You didn't dodge.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-inside-the-guide",
+  "kicker": "INSIDE THE GUIDE",
+  "slides": [
+   {"title": "What you get in our movement guide", "body": "Perimenopausal Women Keeping Moving Without Forcing Workouts."},
+   {"kicker": "PART 1", "title": "Why broken nights change the morning", "body": "And why forcing it, or cancelling it, both backfire."},
+   {"kicker": "PART 2", "title": "The Morning Capacity Check", "body": "Three questions. Three outcomes. One decision."},
+   {"kicker": "PART 3", "title": "Starting points and stop cues", "body": "How to begin small and stop on purpose."},
+   {"kicker": "PRINTABLE", "title": "The Decision Card", "body": "One page for the fridge or your gym bag."},
+   {"kicker": "PRINTABLE", "title": "Seven-Day Broken Night Practice Sheet", "body": "Repeat the check for a week. See your pattern."},
+   {"kicker": "$65 ON WHOP", "title": "Practical, not medical", "body": "A way to decide, not a cure.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "energy-shifts",
+  "kicker": "WORTH NOTICING",
+  "title": "Your energy at 7am isn't your energy at 5pm.",
+  "body": "When do you feel most able to move?"
+ }
+}
