@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-26",
+ "reel": {
+  "slug": "reel-a-the-dog-still-needs-walking",
+  "frames": [
+   {"kicker": "6:45AM", "title": "Four hours' sleep. The dog is at the door.", "body": ""},
+   {"kicker": "THE DOG", "title": "Doesn't care about your training plan.", "body": ""},
+   {"kicker": "ASK", "title": "How much usable energy is here?", "body": ""},
+   {"kicker": "SOME", "title": "The usual loop, slower.", "body": ""},
+   {"kicker": "A LITTLE", "title": "Round the block. Home when they turn back.", "body": ""},
+   {"kicker": "NONE", "title": "Garden today. Someone else does the walk.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Pick one. It counts.", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-working-from-home-tired",
+  "kicker": "DESK DAY",
+  "slides": [
+   {"title": "Working from home after a broken night?", "body": "Movement can fit around the laptop. It doesn't have to fight it."},
+   {"kicker": "BEFORE YOU LOG ON", "title": "Run the check, not the inbox", "body": "Two minutes. Night, fatigue, willingness to move. Separately."},
+   {"kicker": "IF THERE'S SOME ENERGY", "title": "Keep the lunch session, shorter", "body": "Same plan, smaller. Decide the size now."},
+   {"kicker": "IF IT'S LOW", "title": "Ten minutes outside before the first call", "body": "Gentle movement, with a clear stop: the call."},
+   {"kicker": "IF IT'S EMPTY", "title": "Rest, decided at 8am", "body": "Not drifted into at 3pm with guilt attached."},
+   {"kicker": "WHICHEVER YOU PICK", "title": "Write it in the calendar", "body": "A decision you can see is easier to keep."},
+   {"kicker": "THE GUIDE", "title": "One check. Three real options.", "body": "Perimenopausal Women Keeping Moving Without Forcing Workouts.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "smallest-version",
+  "kicker": "THIS MORNING",
+  "title": "Ask what the smallest useful version looks like.",
+  "body": "What would yours be today?"
+ }
+}
