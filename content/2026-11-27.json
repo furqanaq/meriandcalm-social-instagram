@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-27",
+ "reel": {
+  "slug": "reel-a-spin-class-at-nine",
+  "frames": [
+   {"kicker": "FRIDAY, 6:45AM", "title": "Spin class at 9. Slept in pieces.", "body": ""},
+   {"kicker": "THE OLD CHOICES", "title": "Force it. Or bin it.", "body": ""},
+   {"kicker": "THE THIRD WAY", "title": "Ask before you clip in.", "body": ""},
+   {"kicker": "USABLE ENERGY?", "title": "Some. Not full-class some.", "body": ""},
+   {"kicker": "SO", "title": "Back row. Easy gear. Out at 30.", "body": ""},
+   {"kicker": "STOP CUE", "title": "Legs heavy at 20? Done.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-how-a-partner-can-help",
+  "kicker": "FOR PARTNERS",
+  "slides": [
+   {"title": "How a partner can help after a broken night", "body": "Send this to the person who shares your mornings."},
+   {"kicker": "ASK, DON'T PUSH", "title": "\"What does today look like?\"", "body": "Not \"Are you still going?\""},
+   {"kicker": "DROP THE SCORE", "title": "Don't count her sessions", "body": "A week isn't judged by ticks on a plan."},
+   {"kicker": "OFFER SMALL", "title": "\"Ten-minute walk together?\"", "body": "An easy start is easier to say yes to."},
+   {"kicker": "BACK THE REST", "title": "Rest is a plan, not a let-down", "body": "No sighs. No \"again?\". It's decided."},
+   {"kicker": "HER CALL", "title": "Let her set the stop cue", "body": "She knows when enough is enough."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Put the card where you both see it", "body": "The guide includes a printable Decision Card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "advice-for-a-friend",
+  "kicker": "TRY THIS",
+  "title": "Give yourself the advice you'd give a friend.",
+  "body": "What would you tell her this morning?"
+ }
+}
