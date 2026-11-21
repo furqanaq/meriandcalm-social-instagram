@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-28",
+ "reel": {
+  "slug": "reel-a-touchline-at-ten",
+  "frames": [
+   {"kicker": "SATURDAY, 7:10AM", "title": "Touchline at 10. Awake since 3.", "body": ""},
+   {"kicker": "THE PLAN", "title": "Gym first. Then the match.", "body": ""},
+   {"kicker": "BEFORE YOU GO", "title": "Run the check, not the plan.", "body": ""},
+   {"kicker": "TODAY'S ANSWER", "title": "Gentle movement fits. The gym doesn't.", "body": ""},
+   {"kicker": "SO", "title": "Walk to the pitch. Pace the line.", "body": ""},
+   {"kicker": "STOP CUE", "title": "Final whistle. That's the session.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-when-the-check-says-go",
+  "kicker": "IT WORKS BOTH WAYS",
+  "slides": [
+   {"title": "Sometimes the check says: go.", "body": "Broken night. Plan still fits. That happens too."},
+   {"kicker": "THE CHECK ISN'T A BRAKE", "title": "It's a question, not a no", "body": "Some mornings the honest answer is yes."},
+   {"kicker": "SIGNS IT FITS", "title": "Energy is there when you ask", "body": "Tired, maybe. But usable."},
+   {"kicker": "SIGNS IT FITS", "title": "Moving sounds OK, not grim", "body": "Willing is different from forcing."},
+   {"kicker": "STILL SET A CUE", "title": "Decide your stop point first", "body": "A full plan can still have an exit."},
+   {"kicker": "CHECK IN", "title": "Ten minutes in, ask again", "body": "Still fits? Carry on. Not? Scale down."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Modified, gentle, rest, or the plan", "body": "Our guide walks you through it.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "honest-yes",
+  "kicker": "TODAY",
+  "title": "An honest yes counts as much as an honest no.",
+  "body": "What did your check say this morning?"
+ }
+}
