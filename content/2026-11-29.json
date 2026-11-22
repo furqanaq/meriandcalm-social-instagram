@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-29",
+ "reel": {
+  "slug": "reel-a-family-walk-at-eleven",
+  "frames": [
+   {"kicker": "SUNDAY, 6:40AM", "title": "Walk at 11. Awake since 4.", "body": ""},
+   {"kicker": "THE OLD WAY", "title": "Cancel it, or march through it.", "body": ""},
+   {"kicker": "THE CHECK", "title": "How much usable energy is here?", "body": ""},
+   {"kicker": "TODAY'S ANSWER", "title": "Some. Not five miles' worth.", "body": ""},
+   {"kicker": "SO", "title": "Go. Take the short loop.", "body": ""},
+   {"kicker": "STOP CUE", "title": "The café. Then home.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-listen-to-your-body",
+  "kicker": "MORE THAN A SLOGAN",
+  "slides": [
+   {"title": "\"Listen to your body.\" But what is it saying?", "body": "After a broken night, the signals are noisy."},
+   {"kicker": "THE PROBLEM", "title": "Tired can sound like no", "body": "And guilt can sound like yes."},
+   {"kicker": "SEPARATE THE SIGNALS", "title": "Night. Fatigue. Willingness.", "body": "Note each one on its own, plainly."},
+   {"kicker": "THEN ASK", "title": "What does today actually allow?", "body": "Usable energy, not ideal energy."},
+   {"kicker": "THEN CHOOSE", "title": "Modified, gentle or rest", "body": "One answer. Not a debate."},
+   {"kicker": "THEN LISTEN AGAIN", "title": "Check in as you begin", "body": "The first few minutes tell you more."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Listening, with a structure", "body": "Our guide shows you how.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "december-gentle",
+  "kicker": "SUNDAY",
+  "title": "December doesn't need a new regime.",
+  "body": "What will you keep gentle this month?"
+ }
+}
