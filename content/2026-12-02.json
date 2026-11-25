@@ -1,0 +1,34 @@
+{
+ "date": "2026-12-02",
+ "reel": {
+  "slug": "reel-a-running-club",
+  "frames": [
+   {"kicker": "WEDNESDAY, 6AM", "title": "Running club at 6:30. Up since 2.", "body": ""},
+   {"kicker": "TWO REFLEXES", "title": "Keep up with the fast group. Or stay in bed.", "body": ""},
+   {"kicker": "THE CHECK", "title": "How much usable energy is here?", "body": ""},
+   {"kicker": "SOME", "title": "Go. Run with the slower group.", "body": ""},
+   {"kicker": "STOP CUE", "title": "Turn back at halfway.", "body": ""},
+   {"kicker": "AND", "title": "Coffee after still counts as showing up.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-the-two-minute-check",
+  "kicker": "TIMED",
+  "slides": [
+   {"title": "The Morning Capacity Check takes two minutes", "body": "Here's how they break down."},
+   {"kicker": "0:00 - 0:30", "title": "Record", "body": "The night, your fatigue, your willingness to move. Separately."},
+   {"kicker": "0:30 - 1:00", "title": "Ask", "body": "Usable energy? Gentle movement OK? Plan still fits?"},
+   {"kicker": "1:00 - 1:30", "title": "Choose", "body": "Modified plan, gentle movement or deliberate rest."},
+   {"kicker": "1:30 - 2:00", "title": "Set the edges", "body": "A starting point and a stop cue."},
+   {"kicker": "THEN", "title": "Begin, and check in", "body": "Or rest, and let it be closed."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Two minutes, every morning", "body": "With a printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "midweek-kinder",
+  "kicker": "MIDWEEK",
+  "title": "How are you talking to yourself about this week?",
+  "body": "Kinder than last month?"
+ }
+}

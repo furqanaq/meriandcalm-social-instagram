@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-30",
+ "reel": {
+  "slug": "reel-a-cycle-commute",
+  "frames": [
+   {"kicker": "MONDAY, 6:50AM", "title": "Cycling to work. Up since 3.", "body": ""},
+   {"kicker": "BEFORE THE HELMET", "title": "How much usable energy is here?", "body": ""},
+   {"kicker": "SOME", "title": "Ride, but take the flat route.", "body": ""},
+   {"kicker": "A LITTLE", "title": "Bus most of the way. Walk the last stop.", "body": ""},
+   {"kicker": "NONE", "title": "Bus door to door. Rest, decided.", "body": ""},
+   {"kicker": "WHICHEVER YOU PICK", "title": "You got there. That counts.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-slept-ok-still-flat",
+  "kicker": "NOT JUST FOR BAD NIGHTS",
+  "slides": [
+   {"title": "Slept fine. Still feel flat?", "body": "The check works on those mornings too."},
+   {"kicker": "WHY IT HAPPENS", "title": "The night isn't the whole story", "body": "Energy can be low after a decent night."},
+   {"kicker": "STEP 1", "title": "Record it as it is", "body": "\"Slept OK. Feel flat.\" No need to explain it."},
+   {"kicker": "STEP 2", "title": "Ask the same three questions", "body": "Usable energy? Gentle movement OK? Plan still fits?"},
+   {"kicker": "STEP 3", "title": "Pick one of three", "body": "Modified plan, gentle movement or deliberate rest."},
+   {"kicker": "STEP 4", "title": "Set a stop cue first", "body": "Then check in as you begin."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "One check for any morning", "body": "It's in our guide.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "plan-written-rested",
+  "kicker": "MONDAY",
+  "title": "Your plan was written by a rested you.",
+  "body": "What would this morning's you change?"
+ }
+}

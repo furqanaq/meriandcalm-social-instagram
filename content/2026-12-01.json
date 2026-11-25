@@ -1,0 +1,34 @@
+{
+ "date": "2026-12-01",
+ "reel": {
+  "slug": "reel-a-paid-for-the-class",
+  "frames": [
+   {"kicker": "TUESDAY, 7AM", "title": "Paid for the class. Slept four hours.", "body": ""},
+   {"kicker": "THE PULL", "title": "\"I've paid, so I have to go.\"", "body": ""},
+   {"kicker": "BUT", "title": "Paying doesn't make it fit.", "body": ""},
+   {"kicker": "ASK INSTEAD", "title": "Does the planned session still fit?", "body": ""},
+   {"kicker": "IF PARTLY", "title": "Go. Lighter weights. Leave at half time.", "body": ""},
+   {"kicker": "IF NOT", "title": "A walk, or rest. Both are decisions.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-on-your-december-list",
+  "kicker": "FOR YOUR DECEMBER LIST",
+  "slides": [
+   {"title": "Something for your mornings, not your gym bag", "body": "A small guide for after a broken night."},
+   {"kicker": "WHAT IT IS", "title": "A way to decide, not a workout plan", "body": "Fits around the training you already do."},
+   {"kicker": "INSIDE", "title": "The Morning Capacity Check", "body": "Step by step, in plain language."},
+   {"kicker": "INSIDE", "title": "A printable Decision Card", "body": "For the fridge, the bag or the bedside."},
+   {"kicker": "INSIDE", "title": "A Seven-Day Practice Sheet", "body": "To see your week clearly."},
+   {"kicker": "WHAT IT ISN'T", "title": "Not medical advice", "body": "It won't fix sleep. It helps you choose."},
+   {"kicker": "$65, INSTANT DOWNLOAD", "title": "For you, or a friend in perimenopause", "body": "Link in bio."}
+  ]
+ },
+ "story": {
+  "slug": "one-choice-no-score",
+  "kicker": "1 DECEMBER",
+  "title": "One morning. One choice. No score.",
+  "body": "Which did you pick today: modified, gentle or rest?"
+ }
+}
