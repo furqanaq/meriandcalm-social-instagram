@@ -1,0 +1,34 @@
+{
+ "date": "2026-12-03",
+ "reel": {
+  "slug": "reel-a-heavy-lifting-day",
+  "frames": [
+   {"kicker": "THURSDAY, 7AM", "title": "Heavy squats planned. Up since 3.", "body": ""},
+   {"kicker": "THE OLD RULE", "title": "\"Never skip leg day.\"", "body": ""},
+   {"kicker": "THE CHECK", "title": "Does the planned session still fit?", "body": ""},
+   {"kicker": "IF PARTLY", "title": "Same lifts. Two sets, not four.", "body": ""},
+   {"kicker": "STOP CUE", "title": "Form slips? That's the last set.", "body": ""},
+   {"kicker": "IF NOT", "title": "Mobility, a walk, or rest. All decisions.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-wired-not-rested",
+  "kicker": "WIRED, NOT RESTED",
+  "slides": [
+   {"title": "Broken night, but you feel strangely wired?", "body": "A buzzy morning isn't always a full tank."},
+   {"kicker": "NOTICE", "title": "Buzzing is not the same as usable energy", "body": "Record how you feel. Don't treat it as a green light yet."},
+   {"kicker": "ASK", "title": "Could I do this session well, not just start it?", "body": "Starting is easy when you're wired. Finishing well is the test."},
+   {"kicker": "IF YOU GO", "title": "Pick a modest starting point", "body": "The first ten minutes at an easy pace."},
+   {"kicker": "SET IT FIRST", "title": "A clear stop cue", "body": "Heavy legs, clumsy form or a sudden dip. Then you're done."},
+   {"kicker": "CHECK IN", "title": "Ask again at ten minutes", "body": "Wired energy can fade fast. Adjust without drama."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Works on flat mornings and buzzy ones", "body": "Guide + printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "what-enough-looks-like",
+  "kicker": "THURSDAY",
+  "title": "Decide what enough looks like before you begin.",
+  "body": "What's enough for you today?"
+ }
+}
