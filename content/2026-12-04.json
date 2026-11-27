@@ -1,0 +1,34 @@
+{
+ "date": "2026-12-04",
+ "reel": {
+  "slug": "reel-a-yoga-at-six",
+  "frames": [
+   {"kicker": "FRIDAY, 7AM", "title": "Yoga at 6pm. Awake since 3.", "body": ""},
+   {"kicker": "THE TEMPTATION", "title": "Cancel it now and be done.", "body": ""},
+   {"kicker": "THIS MORNING", "title": "Record the night. Keep the class pencilled in.", "body": ""},
+   {"kicker": "AT 5:30PM", "title": "Run the check again.", "body": ""},
+   {"kicker": "IF IT FITS", "title": "Go. Back row. Child's pose is allowed.", "body": ""},
+   {"kicker": "IF IT DOESN'T", "title": "Planned rest. Decision closed.", "body": ""},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "Guide + printable decision card", "body": "Link in bio"}
+  ]
+ },
+ "carousel": {
+  "slug": "post-a-plan-in-ranges",
+  "kicker": "PLANNING THE WEEK",
+  "slides": [
+   {"title": "Write your plan as a range, not a target", "body": "One small change for broken-night weeks."},
+   {"kicker": "THE PROBLEM", "title": "A single number sets you up to miss", "body": "\"40 minutes\" turns a 15-minute morning into a failure."},
+   {"kicker": "TRY THIS", "title": "Give each day a low end and a high end", "body": "Monday: 10 to 40 minutes."},
+   {"kicker": "THE LOW END", "title": "Small enough for your worst morning", "body": "A walk round the block. A few stretches."},
+   {"kicker": "THE HIGH END", "title": "Your plan on a good night", "body": "Still there when the night allows it."},
+   {"kicker": "EACH MORNING", "title": "The check picks the point in the range", "body": "Or picks deliberate rest. Both are fine."},
+   {"kicker": "THE MORNING CAPACITY CHECK", "title": "A calm way to choose each day", "body": "Guide + printable decision card.\n\nLink in bio."}
+  ]
+ },
+ "story": {
+  "slug": "change-the-plan-keep-the-goal",
+  "kicker": "FRIDAY",
+  "title": "You can change today's plan and keep your goal.",
+  "body": "Which goal are you keeping, gently?"
+ }
+}
